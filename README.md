@@ -44,7 +44,27 @@ Shipping Cost – Shipping charges for the order. 10,037 unique values.
 
 Order Priority – Priority level of the order (Critical, High, Medium, Low). 4 categories.
 
-## VISUALIZATION USED:-
+Project Steps:-
+1. Dataset Loading(In Google Collab)
+Loaded Superstore 2011-2015 dataset CSV into a pandas DataFrame
+
+2. Data Profiling(In Google Collab)
+Displayed initial rows of both datasets
+Explored dataset structure and column information
+Identified key columns such as orderdate, segment, shipmode, region, profit, quantity, sales, category and order priority
+
+3. Data Cleaning(In Google Collab)
+Checked for Blank Values and found out that maximum blanks are in order date column which is a key column so we can't directly
+delete the whole blanks rows, we will filter it out in Power BI during visualization process. Lastly make a clean copy of the original data for further visualization and analysis.
+
+4. Run some EDA to have a quick insight about the data.
+   ### Q1. INITIAL FINDING FOR PRODUCT CATEGORY - Technology is by far has the most profit.
+   ### Q2. INITIAL FINDING FOR REGION - Central region has more sale compared to any other region followed by south and then north.
+   ### Q3. INITIAL FINDING FOR MONTHS - November has the highest volume of sales.
+   
+With this as observation, we moved to visualization part.
+
+## VISUALIZATION USED:-(Power BI)
 Donut Chart (Sales by Category)
 Shows the proportional share of each product category—Technology, Furniture, Office Supplies—using a circular format for easy comparison.
 
@@ -82,5 +102,7 @@ Performance Overview
 
 **Screenshot of dashboard:**  
 ![Preview of dashboard](https://github.com/Arijeet226/ELEVATE_LABS_DA_INTERNSHIP_DAY8_TASK8/blob/91740a09501c055cd2c45d993e13db16b5ac8457/Screenshot%202025-10-03%20131756.png)
+
+Lately, Documented all the insights gathered from the visualization in a word file.
 
 # --THANK YOU--
