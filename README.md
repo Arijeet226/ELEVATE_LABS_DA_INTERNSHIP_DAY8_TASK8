@@ -4,7 +4,7 @@ TASK 8: Simple Sales Dashboard Design, Objective: Create a basic interactive das
 DATASET USED:-https://www.kaggle.com/datasets/jr2ngb/superstore-data
 
 ## ABOUT DATASET
-Order Date – The date when the order was placed. (Some missing values: 31,223). Needs conversion to proper date type.
+Order Date – The date when the order was placed. (Some missing values: 31,223).
 
 Ship Date – The date when the order was shipped. 1,464 unique values. No missing data.
 
