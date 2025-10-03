@@ -81,6 +81,6 @@ Performance Overview
 - The dashboard totals indicate an overall sum of profit at 576K, sales at 5M, and quantity at 69K for the period in view, reflecting strong business performance and market penetration across regions and categories.
 
 **Screenshot of dashboard:**  
-![Preview of dashboard]()
+![Preview of dashboard](https://github.com/Arijeet226/ELEVATE_LABS_DA_INTERNSHIP_DAY8_TASK8/blob/91740a09501c055cd2c45d993e13db16b5ac8457/Screenshot%202025-10-03%20131756.png)
 
 # --THANK YOU--
